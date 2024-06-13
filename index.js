@@ -19,3 +19,25 @@ function injetarPao(){
 }
 
 //cada funcao deve fazer uma pratica com o mesmo objetivos, se nao voce quebra 
+
+//exemplo separar dados 
+
+function enviarEmail(){}
+
+function salvarNoBancoDeDados ( ){ 
+//logicas, linhas de codigo, se tiver uma funcao de banco de dados envelopar tudo em uma mesma 
+
+}
+ function getData () {
+    //logica implementada aqui
+ }
+
+ //validar dados
+
+ function checkValues() {
+    
+ }
+
+ function sendToDataBase(){
+    
+ }
