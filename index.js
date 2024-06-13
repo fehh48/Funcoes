@@ -28,8 +28,24 @@ function salvarNoBancoDeDados ( ){
 //logicas, linhas de codigo, se tiver uma funcao de banco de dados envelopar tudo em uma mesma 
 
 }
+
+//funcao main colocar todas as funcoes dentro para chamar quando nessesario EX:
+
+function mainSaveData(){
+    getData()
+    checkValues()
+    sendToDataBase()
+}
+
  function getData () {
-    //logica implementada aqui
+    //logica implementada aqui, lembrar do TAB para identacao, ficar mais vacio na hora de vizualizar 
+
+    console.log("Pegando dados do usuario")
+        if(1<3) {
+            console.log("Numero encontrado")
+    }
+
+
  }
 
  //validar dados
@@ -39,5 +55,5 @@ function salvarNoBancoDeDados ( ){
  }
 
  function sendToDataBase(){
-    
+
  }
